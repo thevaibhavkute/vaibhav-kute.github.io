@@ -1,0 +1,13 @@
+.profile{
+    border: 1;
+    border-radius: 50%;
+}
+
+.data{
+    align-items: center;
+    background-color: blueviolet;
+}
+
+.home-town{
+    background-color: burlywood;
+}
