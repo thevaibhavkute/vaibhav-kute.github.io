@@ -5,9 +5,17 @@
 
 .data{
     align-items: center;
-    background-color: blueviolet;
+    background-color: rgb(15, 7, 87);
 }
 
 .home-town{
-    background-color: burlywood;
+    background-color: rgb(66, 6, 53);
+}
+
+.form{
+    background-color: rgb(151, 43, 23);
+}
+
+.address{
+    background-color: rgb(9, 63, 45);
 }
