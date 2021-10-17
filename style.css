@@ -43,8 +43,12 @@
 }
 
 .vid:hover{
-    background-color: cyan;
+    background-color: rgb(10, 121, 121);
     border-radius: 40%;
+}
+
+.vid video{
+    border-radius: 20%;
 }
 
 .foot:hover{
