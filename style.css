@@ -13,19 +13,35 @@
     color: brown;
 }
 
-.data:hover{
+.data div{
+    padding-bottom: 0%;
+}
+
+.edu:hover{
     background-color: rgb(15, 7, 87);
-    border-radius: 40%;
+}
+
+.skills:hover{
+    background-color: brown;
+}
+
+.lang:hover{
+    background-color: cadetblue;
+}
+
+.int:hover{
+    background-color: cornflowerblue;
 }
 
 
+
 .vid{
-    border-radius: 30%;
+    /* border-radius: 30%; */
 }
 
 .home-town:hover{
     background-color: rgb(66, 6, 53);
-    border-radius: 40%;
+    /* border-radius: 40%; */
 }
 
 .home-town img{
@@ -34,17 +50,17 @@
 
 .form:hover{
     background-color: rgb(151, 43, 23);
-    border-radius: 40%;
+    /* border-radius: 40%; */
 }
 
 .address:hover{
     background-color: rgb(9, 63, 45);
-    border-radius: 40%;
+    /* border-radius: 40%; */
 }
 
 .vid:hover{
     background-color: rgb(10, 121, 121);
-    border-radius: 40%;
+    /* border-radius: 40%; */
 }
 
 .vid video{
@@ -53,5 +69,5 @@
 
 .foot:hover{
     background-color: rgb(16, 92, 6);
-    border-radius: 40%;
+    /* border-radius: 40%; */
 }
