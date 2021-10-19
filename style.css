@@ -17,6 +17,10 @@
     padding-bottom: 0%;
 }
 
+.exp:hover{
+    background-color: cornflowerblue;
+}
+
 .edu:hover{
     background-color: rgb(15, 7, 87);
 }
@@ -24,6 +28,7 @@
 .skills:hover{
     background-color: brown;
 }
+
 
 .lang:hover{
     background-color: cadetblue;
