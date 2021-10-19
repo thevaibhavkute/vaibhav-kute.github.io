@@ -18,7 +18,7 @@
 }
 
 .exp:hover{
-    background-color: cornflowerblue;
+    background-color: rgb(54, 5, 94);
 }
 
 .edu:hover{
@@ -31,11 +31,11 @@
 
 
 .lang:hover{
-    background-color: cadetblue;
+    background-color: rgb(93, 102, 13);
 }
 
 .int:hover{
-    background-color: cornflowerblue;
+    background-color: rgb(78, 10, 19);
 }
 
 
