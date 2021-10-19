@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="style.css">
     <title>Vaibhav Kute</title>
 
+    <script type="text/javascript" src="javascript.js"></script>
+
     <!-- for style  -->
     <style>
         h1 {text-align: center;}
@@ -100,7 +102,7 @@
 
     <div class="form">
       <h4 style="background-color: rgb(207, 117, 7);">Contact Me</h4>
-      <form action="/thank-you.png">
+      <form name="myform" action="/thank-you.png" onsubmit="return validateForm()" method="post">
         <label for="fname">First name:</label><br>
         <input type="text" id="fname" name="fname" ><br>
         <label for="lname">Last name:</label><br>
